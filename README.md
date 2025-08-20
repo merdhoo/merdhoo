@@ -1,10 +1,10 @@
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/yigitoo/yigitoo"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/yigitoo/yigitoo/graphs/contributors"><img src="https://img.shields.io/github/contributors/yigitoo/yigitoo?color=blue"></a>
-    <a href="https://github.com/yigitoo/yigitoo/stargazers"><img src="https://img.shields.io/github/stars/yigitoo/yigitoo.svg?logo=github"></a>
-    <a href="https://github.com/yigitoo/yigitoo/network/members"><img src="https://img.shields.io/github/forks/yigitoo/yigitoo.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=yigitoo.yigitoo" alt="visitors"/>
+    <a href="https://github.com/merdhoo/merdhoo"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/merdhoo/merdhoo/graphs/contributors"><img src="https://img.shields.io/github/contributors/merdhoo/merdhoo?color=blue"></a>
+    <a href="https://github.com/merdhoo/merdhoo/stargazers"><img src="https://img.shields.io/github/stars/merdhoo/merdhoo.svg?logo=github"></a>
+    <a href="https://github.com/merdhoo/merdhoo/network/members"><img src="https://img.shields.io/github/forks/merdhoo/merdhoo.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=merdhoo.merdhoo" alt="visitors"/>
 </p>
 
 <!--   my-header-img -->
@@ -12,7 +12,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yiğit+GÜMÜŞ;+Welcome+to+My+Profile!;Over+5++years+of+programming+experience;Always+learning+new+things+;Interested+in+Economics;AI+enthusiast+;BackEnd+Programmer;FrontEnd+Programer;Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mert+KUREKCI;+Welcome+to+My+Profile!;Over+2++years+of+programming+experience;Always+learning+new+things+;Interested+in+AI+Developer+and+Programmer+;BackEnd+Programmer;FrontEnd+Programer;Web+Developer;)](https://git.io/typing-svg)
 
 
 
