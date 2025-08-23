@@ -27,10 +27,6 @@
 
 
 
-## Graduation
-
-Kaşgarlı Mahmut Ortaokulu'161
-
 ## Things I do:
 
 * I'm interested in Artificial Intelligence Development and Programming.
