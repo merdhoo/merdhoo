@@ -1,23 +1,32 @@
-# 👋 Selamlar, Ben Mert! 
+# 👋 Hi there, I'm Mert! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Software+Developer;Tech+Enthusiast;Building+Cool+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemekten çekinmeyen bir geliştiriciyim. Projeler üretmeyi, sistemleri kurcalamayı ve yapay zekayı günlük hayatıma entegre etmeyi seviyorum.
+I am a passionate and results-driven **Full-Stack Developer** and technology enthusiast who loves building end-to-end applications, designing efficient system architectures, and integrating AI into daily solutions. I thrive on solving complex problems, tinkering with underlying systems, and constantly pushing the boundaries of what I can build.
 
-* 🎯 **Şu anki Odak Noktam:** Algoritmalar, uygulama geliştirme ve yapay zeka modelleri.
-* 💡 **İlgi Alanlarım:** Yazılım mimarileri, backend sistemler ve sistem modifikasyonları.
+* 🎯 **Current Focus:** Advanced algorithms, scalable application development, and custom AI model integrations.
+* 💡 **Interests:** Software architecture, robust backend systems, system optimization, and automation.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 💻 Full-Stack Development Expertise
 
-#### 💻 Programlama Dilleri
+As a Full-Stack Developer, I bridge the gap between powerful backend logic and seamless user experiences:
+* **Backend Core:** Designing robust APIs, handling database migrations, and writing clean, maintainable code using **Python** and **C# (.NET)**.
+* **Frontend Integration:** Crafting responsive and interactive user interfaces using modern JavaScript and TypeScript workflows.
+* **System Design & AI:** Developing and deploying intelligent workflows, custom assistant layers, and optimizing application performance from the ground up.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -27,7 +36,7 @@ Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemek
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-#### 🌐 Web & Backend / AI Teknolojileri
+#### 🌐 Web & Backend / AI Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -35,7 +44,7 @@ Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemek
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-#### 🗄️ Veritabanları & Bulut / Araçlar
+#### 🗄️ Databases, Cloud & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -46,7 +55,7 @@ Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemek
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=merdhoo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
@@ -55,7 +64,7 @@ Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemek
 
 ---
 
-### 🤝 Benimle İletişime Geç
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="mailto:rauns2121@gmail.com">
@@ -64,5 +73,5 @@ Ben, teknolojiye ve kodlamaya meraklı, sürekli üreten ve yeni şeyler denemek
 </p>
 
 <p align="center">
-  <sub>Projelere göz atmayı ve bir 🌟 bırakmayı unutma!</sub>
+  <sub>Don't forget to explore my repositories and leave a 🌟 if you like my work!</sub>
 </p>
