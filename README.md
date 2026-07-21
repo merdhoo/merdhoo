@@ -21,9 +21,10 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
   * *Reached the Gold Division by solving complex algorithmic and data structure problems under strict time limits.*
 * **Harvard CS50x Certificate**
   * *Completed Harvard University's introduction to computer science and programming.*
+* **MIT University MITx 6.00.2x Certificate**
 * **Duolingo English Test (DET) - 145/160**
   * *Demonstrated official professional English proficiency.* 
-* **AP Calculus BC & Physics C (Self-Studied)**
+* **AP Calculus BC, AP Physics C, AP Computer Science A, AP Statistics (Self-Studied)**
   * *Mastered university-level mathematics, limits, derivatives, integration, and classical mechanics entirely through independent study.*
 
 ---
