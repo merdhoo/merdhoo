@@ -28,15 +28,6 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
 
 ---
 
-### 💼 Professional Experience
-
-* **AI & Machine Learning Intern | [Company Name]** *(10th Grade Summer)*
-  * Assisted in fine-tuning deep learning models, preparing data pipelines, and evaluating model metrics.
-* **AI & Data Operations Assistant | [Startup Name]** *(9th Grade Summer)*
-  * Managed data preprocessing, performed web scraping, and assisted in building early-stage automation workflows with Python.
-
----
-
 ### 🧠 AI & Engineering Expertise
 
 I focus on the core engineering and mathematical principles that power intelligent software:
