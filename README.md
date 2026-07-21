@@ -22,6 +22,7 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
 * **Harvard CS50x Certificate**
   * *Completed Harvard University's introduction to computer science and programming.*
 * **MIT University MITx 6.00.2x Certificate**
+  * *Completed MIT University's introduction to computer science and programming.*
 * **Duolingo English Test (DET) - 145/160**
   * *Demonstrated official professional English proficiency.* 
 * **AP Calculus BC, AP Physics C, AP Computer Science A, AP Statistics (Self-Studied)**
