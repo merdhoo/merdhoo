@@ -19,6 +19,8 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
 
 * **USACO (USA Computing Olympiad) - Gold Division**
   * *Reached the Gold Division by solving complex algorithmic and data structure problems under strict time limits.*
+* **Kaggle Machine Learning Competitions** — *Global Competitor*
+  * Developed predictive machine learning models using real-world datasets and Python libraries.
 * **MIT University MITx 6.00.1x**
   * *Completed MIT University's introduction to computer science and programming.*
 * **Duolingo English Test (DET) - 145/160**
