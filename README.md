@@ -15,18 +15,13 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
 
 ---
 
-### 🏆 Honors & Certifications
+### 🏆 Academic Goals & Programs I Continue
 
-* **USACO (USA Computing Olympiad) - Gold Division**
-  * *Reached the Gold Division by solving complex algorithmic and data structure problems under strict time limits.*
+* **USACO Competitive Programming - Platinum Division**
 * **Kaggle Machine Learning Competitions** — *Global Competitor*
-  * Developed predictive machine learning models using real-world datasets and Python libraries.
-* **MIT University MITx 6.00.1x**
-  * *Completed MIT University's introduction to computer science and programming.*
+* **MIT University MITx 6.00.1x and 6.00.2x**
 * **Duolingo English Test (DET) - 145/160**
-  * *Demonstrated official professional English proficiency.* 
 * **AP Calculus BC, AP Physics C, AP Computer Science A, AP Statistics (Self-Studied)**
-  * *Mastered university-level mathematics, limits, derivatives, integration, and classical mechanics entirely through independent study.*
 
 ---
 
