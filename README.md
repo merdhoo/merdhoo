@@ -15,16 +15,6 @@ I am a passionate and results-driven **AI Engineer** and technology enthusiast w
 
 ---
 
-### 🏆 Academic Goals & Programs I Continue
-
-* **USACO Competitive Programming - Platinum Division**
-* **Kaggle Machine Learning Competitions** — *Global Competitor*
-* **MIT University MITx 6.00.1x and 6.00.2x**
-* **Duolingo English Test (DET) - 145/160**
-* **AP Calculus BC, AP Physics C, AP Computer Science A, AP Statistics (Self-Studied)**
-
----
-
 ### 🧠 AI & Engineering Expertise
 
 I focus on the core engineering and mathematical principles that power intelligent software:
